@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Miked0/Social-Proof-Section/)
-- Live Site URL: [Add live site URL here](miked0-social-proof-section.vercel.app)
+- Solution URL: https://github.com/Miked0/Social-Proof-Section/
+- Live Site URL: miked0-social-proof-section.vercel.app
 
 ## My process
 
