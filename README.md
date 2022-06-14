@@ -44,10 +44,10 @@ Amo aprender coisas novas durante o desenvolvimento de algum projeto.
 
 ### What I learned
 
-```html
+
 <h1>Códigos que eu fiquei feliz de aprender/ por em pratica</h1>
 <p>flex-basis, grid layout e alinhamento com o CSS</p>
-```
+
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
