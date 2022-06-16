@@ -57,6 +57,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](Miked0.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Miked0)
-- Twitter - [@yourusername](https://www.twitter.com/miiked0)
+- Website - [Michael Douglas](Miked0.github.io)
+- Frontend Mentor - [@miked0](https://www.frontendmentor.io/profile/Miked0)
+- Twitter - [@miiked0](https://www.twitter.com/miiked0)
