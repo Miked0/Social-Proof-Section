@@ -147,15 +147,6 @@ section {
 }
 
 
-.atrib{ padding-bottom: 20px;
-  text-align: center;}
-
-  .atrib a{ text-decoration: none;
-  color: var(--soft-pink);}
-
-  .atrib span { 
-    color: var(--dark-grayish);
-  }
 @media (max-width: 768px) {
   section {
     background-image: url(/images/bg-pattern-top-mobile.svg);
